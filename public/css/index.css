@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/darksoul.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+     font-style: italic;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+

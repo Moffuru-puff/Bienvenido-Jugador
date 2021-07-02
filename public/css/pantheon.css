@@ -1,0 +1,46 @@
+body {
+    background-image: url(../img/Pantheon.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h1 {
+    background-color: rgb(183, 0, 255);
+    color: white;
+    font-style: italic;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+.texto1 {
+    font-family: 'Courgette', cursive;
+    font-size: 26px;
+    font-weight: 400;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 5px;
+    text-align: center;
+}
+
+.texto2 {
+    font-family: 'Courgette', cursive;
+    font-size: 26px;
+    font-weight: 400;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 5px;
+    text-align: center;
+}
+
+.texto3 {
+    font-family: 'Courgette', cursive;
+    font-size: 26px;
+    font-weight: 400;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 16px;
+    text-align: center;
+}
+
