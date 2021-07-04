@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/Pantheon.jpg);
+    background-image: url(../img/Pantheon.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -13,6 +13,9 @@ h1 {
     text-align: center;
 }
 
+.fondo {
+    background-image: url(../img/vidrio.jpg);
+    opacity: 80%;}
 
 .texto1 {
     font-family: 'Courgette', cursive;
@@ -20,27 +23,7 @@ h1 {
     font-weight: 400;
     color: #ffffff;
     font-weight: bold;
-    line-height: 5px;
-    text-align: center;
-}
-
-.texto2 {
-    font-family: 'Courgette', cursive;
-    font-size: 26px;
-    font-weight: 400;
-    color: #ffffff;
-    font-weight: bold;
-    line-height: 5px;
-    text-align: center;
-}
-
-.texto3 {
-    font-family: 'Courgette', cursive;
-    font-size: 26px;
-    font-weight: 400;
-    color: #ffffff;
-    font-weight: bold;
-    line-height: 16px;
+    line-height: 26px;
     text-align: center;
 }
 
